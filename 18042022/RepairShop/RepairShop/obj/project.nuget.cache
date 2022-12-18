@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5UFDlOlobU3VsXJRXwll8VKSVieL8VIKqXA2ZQ8dR4NyAiPxLALDpXTk8uZUhvUfUeq+SIG1NINHYsgKPiXag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\OOP Exams\\18042022\\RepairShop\\RepairShop\\RepairShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

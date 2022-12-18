@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\user\source\repos\OOP Exams\18042022\RepairShop\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache
