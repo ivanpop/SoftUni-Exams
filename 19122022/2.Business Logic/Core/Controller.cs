@@ -70,8 +70,7 @@ namespace UniversityCompetition.Core
             if (students.FindByName(firstName + " " + lastName) != default)
                 return string.Format(Utilities.Messages.OutputMessages.AlreadyAddedStudent, firstName, lastName);
 
-            Student student = new Student(studentId, firstName, lastName);
-            students.AddModel(student);
+            students.AddModel(new Student(studentId, firstName, lastName));
             studentId++;
 
             return string.Format(Utilities.Messages.OutputMessages.StudentAddedSuccessfully, firstName, lastName, "StudentRepository");
@@ -93,7 +92,7 @@ namespace UniversityCompetition.Core
             }
 
             var subject1 = subjects.FindById(subjectId);
-            student.CoverExam(subject1);
+            student.CoverExam(subjects.FindById(subjectId));
 
             return string.Format(Utilities.Messages.OutputMessages.StudentSuccessfullyCoveredExam, student.FirstName, student.LastName, subject1.Name);
         }
@@ -126,22 +125,16 @@ namespace UniversityCompetition.Core
         public string UniversityReport(int universityId)
         {
             var university = universities.FindById(universityId);
-
             int count = 0;
 
             foreach (var student in students.Models)
-            {
                 if (student.University != null && student.University.Name == university.Name)
                     count++;
-            }
 
-            StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine($"*** {university.Name} ***");
+            StringBuilder sb = new StringBuilder($"*** {university.Name} ***").AppendLine();
             sb.AppendLine($"Profile: {university.Category}");
             sb.AppendLine($"Students admitted: {count}");
             sb.AppendLine($"University vacancy: {university.Capacity - count}");
-
             return sb.ToString().TrimEnd();
         }
     }
