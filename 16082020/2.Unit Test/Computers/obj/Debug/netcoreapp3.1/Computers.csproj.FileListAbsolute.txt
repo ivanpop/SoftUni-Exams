@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\user\Desktop\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\user\Desktop\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache
