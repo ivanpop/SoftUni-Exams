@@ -1,0 +1,7 @@
+SELECT 
+	e.FirstName + ' ' + e.LastName AS FullName,
+	COUNT(r.UserId)
+FROM Employees AS e
+LEFT JOIN Reports AS r ON e.Id = r.EmployeeId
+GROUP BY e.FirstName + ' ' + e.LastName
+ORDER BY COUNT(r.UserId) DESC, FullName
